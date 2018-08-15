@@ -1,3 +1,5 @@
+![Jekyll 3.7.0](https://img.shields.io/badge/jekyll-3.7.0-orange.svg)
+
 # Jekyll unsplash credit include
 
 If you use photos from [unsplash.com - Photos from everyone](https://unsplash.com/) in your jekyll site, you should include a credit link.
