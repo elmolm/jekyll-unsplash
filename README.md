@@ -8,7 +8,7 @@ If you use photos from [unsplash.com - Photos from everyone](https://unsplash.co
 
 # Getting started
 1. Copy the small **usplash_credits.html** file in your ```jekyll/_inlcude`` folder. 
-2. Inlude ```{% include usplash-credits.html %}``` in your ``` jekyll/_layouts/post.html ```
+2. Inlude ```{% include usplash_credits.html %}``` in your ``` jekyll/_layouts/post.html ```
 3. In your posts include the 2 variables:
 	* imagecredit_id: '@usplash_id'
 	* imagecredit_name: 'usplash user name'
@@ -27,7 +27,7 @@ You want to inlcude the following image (Laura Onkel [https://unsplash.com/@viaz
 		...
         <hr />
 
-        {% include usplash-credits.html %}
+        {% include usplash_credits.html %}
 
       </article>
     </div>
